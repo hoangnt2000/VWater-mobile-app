@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "167580459860",
+    "project_id": "vwaterapp",
+    "storage_bucket": "vwaterapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167580459860:android:ba1107e145951de61d1ec1",
+        "android_client_info": {
+          "package_name": "com.example.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167580459860-jd3rb8lavjvmk6un7rndqor3luh3ced8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJpHIE9tBXnVxS_OYRLLzdJfWvUuxZcKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167580459860-jd3rb8lavjvmk6un7rndqor3luh3ced8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "167580459860-ikh248chct20i3jhfgleb7athgu22ink.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
